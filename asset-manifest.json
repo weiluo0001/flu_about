@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/flu_about/static/css/main.ba838967.chunk.css",
-    "main.js": "/flu_about/static/js/main.e529b66d.chunk.js",
-    "main.js.map": "/flu_about/static/js/main.e529b66d.chunk.js.map",
+    "main.js": "/flu_about/static/js/main.a565ef46.chunk.js",
+    "main.js.map": "/flu_about/static/js/main.a565ef46.chunk.js.map",
     "runtime-main.js": "/flu_about/static/js/runtime-main.6e65f09f.js",
     "runtime-main.js.map": "/flu_about/static/js/runtime-main.6e65f09f.js.map",
     "static/css/2.47e06e2e.chunk.css": "/flu_about/static/css/2.47e06e2e.chunk.css",
     "static/js/2.4faf2a4a.chunk.js": "/flu_about/static/js/2.4faf2a4a.chunk.js",
     "static/js/2.4faf2a4a.chunk.js.map": "/flu_about/static/js/2.4faf2a4a.chunk.js.map",
     "index.html": "/flu_about/index.html",
-    "precache-manifest.fa96a14557f26050ef5f621d745b07d3.js": "/flu_about/precache-manifest.fa96a14557f26050ef5f621d745b07d3.js",
+    "precache-manifest.441af0bb175c02467de31beed8b587a4.js": "/flu_about/precache-manifest.441af0bb175c02467de31beed8b587a4.js",
     "service-worker.js": "/flu_about/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/flu_about/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.ba838967.chunk.css.map": "/flu_about/static/css/main.ba838967.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.4faf2a4a.chunk.js",
     "static/css/main.ba838967.chunk.css",
-    "static/js/main.e529b66d.chunk.js"
+    "static/js/main.a565ef46.chunk.js"
   ]
 }
